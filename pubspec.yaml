@@ -1,5 +1,5 @@
 name: local_ip_plugin
-description: A new Flutter plugin project.
+description: A Flutter plugin that get local IP Address of a device.
 version: 0.0.1
 repository: https://github.com/japsimrans13/flutter_local_ip_plugin
 
