@@ -27,3 +27,8 @@ void getLocalIP() async {
   print('My local IP: $localIP');
 }
 ```
+
+
+## Additional Information
+I appreciate every PR, so feel free to contribute. I will also look through all the issues on github and try to fix them as soon as possible.
+
